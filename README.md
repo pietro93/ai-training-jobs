@@ -4,7 +4,7 @@
 > Updated every Monday. Full board: **[aitrainer.work](https://aitrainer.work)**
 
 ![Weekly Update](https://img.shields.io/badge/updated-weekly-brightgreen)
-![Jobs](https://img.shields.io/badge/active%20jobs-1831-blue)
+![Jobs](https://img.shields.io/badge/active%20jobs-1988-blue)
 ![Platforms](https://img.shields.io/badge/platforms-7-orange)
 
 ---
@@ -67,7 +67,7 @@ All jobs include a referral link. Applying through the links here (via [aitraine
 | [Senior Software Engineer / Coding Expert](https://aitrainer.work/jobs/mercor/senior-software-engineer-coding-expert) | $120/hr | Mercor | Remote · PhD | [View →](https://aitrainer.work/jobs/mercor/senior-software-engineer-coding-expert) |
 | [Aerospace Engineer – AI Model Training - The United States](https://aitrainer.work/jobs/sme-careers/aerospace-engineer-ai-model-training-the-united-states) | $120/hr | SME Careers | The United States · PhD | [View →](https://aitrainer.work/jobs/sme-careers/aerospace-engineer-ai-model-training-the-united-states) |
 
-> 449 more roles available → **[Browse all Coding & Software Engineering jobs](https://aitrainer.work/jobs/coding)**
+> 474 more roles available → **[Browse all Coding & Software Engineering jobs](https://aitrainer.work/jobs/coding)**
 
 ## 📊 Data Science & Mathematics
 
@@ -84,22 +84,22 @@ All jobs include a referral link. Applying through the links here (via [aitraine
 | [Senior Data Scientist - The United States](https://aitrainer.work/jobs/sme-careers/senior-data-scientist-the-united-states) | $98/hr | SME Careers | The United States · Bachelor's | [View →](https://aitrainer.work/jobs/sme-careers/senior-data-scientist-the-united-states) |
 | [Senior Data Scientist](https://aitrainer.work/jobs/sme-careers/senior-data-scientist) | $98/hr | SME Careers | Worldwide · Bachelor's | [View →](https://aitrainer.work/jobs/sme-careers/senior-data-scientist) |
 | [Data Scientist](https://aitrainer.work/jobs/micro1/data-scientist-1) | $97.5/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/data-scientist-1) |
+| [Data Scientist](https://aitrainer.work/jobs/micro1/data-scientist-2) | $97.5/hr | Micro1 | Remote | [View →](https://aitrainer.work/jobs/micro1/data-scientist-2) |
 | [General Finance Expert](https://aitrainer.work/jobs/mercor/general-finance-expert) | $95/hr | Mercor | Remote · Bachelor's | [View →](https://aitrainer.work/jobs/mercor/general-finance-expert) |
-| [Financial Data Analyst](https://aitrainer.work/jobs/micro1/financial-data-analyst) | $90/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/financial-data-analyst) |
+| [Data Scientist](https://aitrainer.work/jobs/micro1/data-scientist-2) | $90/hr | Micro1 | Remote | [View →](https://aitrainer.work/jobs/micro1/data-scientist-2) |
 | [ML Technical Quality Assurance Lead - The United States](https://aitrainer.work/jobs/sme-careers/ml-technical-quality-assurance-lead-the-united-states) | $60–$120/hr | SME Careers | The United States · Master's | [View →](https://aitrainer.work/jobs/sme-careers/ml-technical-quality-assurance-lead-the-united-states) |
 | [ML Technical Quality Assurance Lead](https://aitrainer.work/jobs/sme-careers/ml-technical-quality-assurance-lead) | $60–$120/hr | SME Careers | Worldwide · Master's | [View →](https://aitrainer.work/jobs/sme-careers/ml-technical-quality-assurance-lead) |
+| [Data Scientist](https://aitrainer.work/jobs/micro1/data-scientist-5) | $86.5/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/data-scientist-5) |
 | [3D Slicer Expert](https://aitrainer.work/jobs/micro1/3d-slicer-expert) | $85/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/3d-slicer-expert) |
 | [Analytics & Business Intelligence Expert](https://aitrainer.work/jobs/mercor/analytics-business-intelligence-expert) | $85/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/analytics-business-intelligence-expert) |
 | [Data Scientist III](https://aitrainer.work/jobs/mercor/data-scientist-iii-1) | $82.5/hr | Mercor | Remote · Bachelor's | [View →](https://aitrainer.work/jobs/mercor/data-scientist-iii-1) |
 | [Data Scientist III](https://aitrainer.work/jobs/mercor/data-scientist-iii-2) | $82.5/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/data-scientist-iii-2) |
-| [Data Scientist](https://aitrainer.work/jobs/micro1/data-scientist-2) | $80/hr | Micro1 | Remote | [View →](https://aitrainer.work/jobs/micro1/data-scientist-2) |
-| [Data Analyst](https://aitrainer.work/jobs/micro1/data-analyst) | $80/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/data-analyst) |
 | [OpenSCAD Expert](https://aitrainer.work/jobs/micro1/openscad-expert) | $80/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/openscad-expert) |
 | [STEM PhDs – Math](https://aitrainer.work/jobs/mercor/stem-phds-math) | $80/hr | Mercor | Remote · PhD | [View →](https://aitrainer.work/jobs/mercor/stem-phds-math) |
 | [Mathematics Expert](https://aitrainer.work/jobs/mercor/mathematics-expert-1) | $76/hr | Mercor | Remote · PhD | [View →](https://aitrainer.work/jobs/mercor/mathematics-expert-1) |
 | [STEM Expert (Physics, Chemistry, Mathematics, Biology)](https://aitrainer.work/jobs/mercor/stem-expert-physics-chemistry-mathematics-biology) | $75/hr | Mercor | Remote · PhD | [View →](https://aitrainer.work/jobs/mercor/stem-expert-physics-chemistry-mathematics-biology) |
 
-> 48 more roles available → **[Browse all Data Science & Mathematics jobs](https://aitrainer.work/jobs/data-science)**
+> 51 more roles available → **[Browse all Data Science & Mathematics jobs](https://aitrainer.work/jobs/data-science)**
 
 ## 🧬 STEM & Science
 
@@ -108,30 +108,30 @@ All jobs include a referral link. Applying through the links here (via [aitraine
 | [Computer and Information Systems Managers](https://aitrainer.work/jobs/mercor/computer-and-information-systems-managers) | $150/hr | Mercor | Remote · Master's | [View →](https://aitrainer.work/jobs/mercor/computer-and-information-systems-managers) |
 | [STEM PhD (AI Subject Matter Experts)](https://aitrainer.work/jobs/mercor/stem-phd-ai-subject-matter-experts) | $105/hr | Mercor | Remote · PhD | [View →](https://aitrainer.work/jobs/mercor/stem-phd-ai-subject-matter-experts) |
 | [Biology PhDs with published papers](https://aitrainer.work/jobs/mercor/biology-phds-with-published-papers) | $102.5/hr | Mercor | Remote · PhD | [View →](https://aitrainer.work/jobs/mercor/biology-phds-with-published-papers) |
+| [Computer Systems Analyst](https://aitrainer.work/jobs/micro1/computer-systems-analyst) | $97.5/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/computer-systems-analyst) |
 | [Environmental Scientists and Specialists, Including Health](https://aitrainer.work/jobs/mercor/environmental-scientists-and-specialists-including-health) | $97.5/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/environmental-scientists-and-specialists-including-health) |
 | [Soil and Plant Scientists](https://aitrainer.work/jobs/mercor/soil-and-plant-scientists) | $97.5/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/soil-and-plant-scientists) |
 | [Healthcare Workflow Experts (Clinical, Revenue Cycle, and Payer Systems)](https://aitrainer.work/jobs/mercor/healthcare-workflow-experts-clinical-revenue-cycle-and-payer-systems) | $95/hr | Mercor | Remote · Master's | [View →](https://aitrainer.work/jobs/mercor/healthcare-workflow-experts-clinical-revenue-cycle-and-payer-systems) |
 | [Git Environments Expert – Advanced Git SWE (3+ YOE)](https://aitrainer.work/jobs/mercor/git-environments-expert-advanced-git-swe-3-yoe) | $92.5/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/git-environments-expert-advanced-git-swe-3-yoe) |
 | [Physics Teachers, Postsecondary](https://aitrainer.work/jobs/mercor/physics-teachers-postsecondary) | $92.5/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/physics-teachers-postsecondary) |
 | [Geoscientists, Except Hydrologists and Geographers](https://aitrainer.work/jobs/mercor/geoscientists-except-hydrologists-and-geographers) | $92.5/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/geoscientists-except-hydrologists-and-geographers) |
-| [Computer Systems Analyst](https://aitrainer.work/jobs/micro1/computer-systems-analyst) | $90/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/computer-systems-analyst) |
 | [Conservation Scientists](https://aitrainer.work/jobs/mercor/conservation-scientists) | $90/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/conservation-scientists) |
-| [Computer & Information Systems Managers](https://aitrainer.work/jobs/mercor/computer-information-systems-managers) | $85/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/computer-information-systems-managers) |
 | [Physics PhD](https://aitrainer.work/jobs/mercor/physics-phd) | $85/hr | Mercor | Remote · PhD | [View →](https://aitrainer.work/jobs/mercor/physics-phd) |
+| [Computer & Information Systems Managers](https://aitrainer.work/jobs/mercor/computer-information-systems-managers) | $85/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/computer-information-systems-managers) |
 | [Music Directors and Composers](https://aitrainer.work/jobs/mercor/music-directors-and-composers) | $85/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/music-directors-and-composers) |
 | [Occupational Health and Safety Specialists](https://aitrainer.work/jobs/mercor/occupational-health-and-safety-specialists) | $85/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/occupational-health-and-safety-specialists) |
-| [Physics PhD Experts (String theory, QFT, Particle physics & Nuclear physics)](https://aitrainer.work/jobs/mercor/physics-phd-experts-string-theory-qft-particle-physics-nuclear-physics-1) | $80/hr | Mercor | Remote · PhD | [View →](https://aitrainer.work/jobs/mercor/physics-phd-experts-string-theory-qft-particle-physics-nuclear-physics-1) |
-| [Physics PhD Experts (Advanced Quantum, Electrodynamics & Classical Mechanics)](https://aitrainer.work/jobs/mercor/physics-phd-experts-advanced-quantum-electrodynamics-classical-mechanics-2) | $80/hr | Mercor | Remote · PhD | [View →](https://aitrainer.work/jobs/mercor/physics-phd-experts-advanced-quantum-electrodynamics-classical-mechanics-2) |
-| [Physics PhD Experts (Statistical Mechanics, Condensed Matter & AMO Physics)](https://aitrainer.work/jobs/mercor/physics-phd-experts-statistical-mechanics-condensed-matter-amo-physics-3) | $80/hr | Mercor | Remote · PhD | [View →](https://aitrainer.work/jobs/mercor/physics-phd-experts-statistical-mechanics-condensed-matter-amo-physics-3) |
-| [Physics PhD Experts](https://aitrainer.work/jobs/mercor/physics-phd-experts-4) | $80/hr | Mercor | Remote · Bachelor's | [View →](https://aitrainer.work/jobs/mercor/physics-phd-experts-4) |
+| [Physics PhD Experts (General Relativity, Astrophysics & Cosmology)](https://aitrainer.work/jobs/mercor/physics-phd-experts-general-relativity-astrophysics-cosmology-1) | $80/hr | Mercor | Remote · PhD | [View →](https://aitrainer.work/jobs/mercor/physics-phd-experts-general-relativity-astrophysics-cosmology-1) |
+| [Physics PhD Experts (String theory, QFT, Particle physics & Nuclear physics)](https://aitrainer.work/jobs/mercor/physics-phd-experts-string-theory-qft-particle-physics-nuclear-physics-2) | $80/hr | Mercor | Remote · PhD | [View →](https://aitrainer.work/jobs/mercor/physics-phd-experts-string-theory-qft-particle-physics-nuclear-physics-2) |
+| [Physics PhD Experts (Advanced Quantum, Electrodynamics & Classical Mechanics)](https://aitrainer.work/jobs/mercor/physics-phd-experts-advanced-quantum-electrodynamics-classical-mechanics-3) | $80/hr | Mercor | Remote · PhD | [View →](https://aitrainer.work/jobs/mercor/physics-phd-experts-advanced-quantum-electrodynamics-classical-mechanics-3) |
+| [Physics PhD Experts (Statistical Mechanics, Condensed Matter & AMO Physics)](https://aitrainer.work/jobs/mercor/physics-phd-experts-statistical-mechanics-condensed-matter-amo-physics-4) | $80/hr | Mercor | Remote · PhD | [View →](https://aitrainer.work/jobs/mercor/physics-phd-experts-statistical-mechanics-condensed-matter-amo-physics-4) |
+| [Physics PhD Experts](https://aitrainer.work/jobs/mercor/physics-phd-experts-5) | $80/hr | Mercor | Remote · Bachelor's | [View →](https://aitrainer.work/jobs/mercor/physics-phd-experts-5) |
 | [Clinical Research Experts (Chemistry and Biology)](https://aitrainer.work/jobs/mercor/clinical-research-experts-chemistry-and-biology) | $80/hr | Mercor | Remote · PhD | [View →](https://aitrainer.work/jobs/mercor/clinical-research-experts-chemistry-and-biology) |
 | [Clinical Researchers (STEM PhDs)](https://aitrainer.work/jobs/mercor/clinical-researchers-stem-phds) | $75/hr | Mercor | Remote · PhD | [View →](https://aitrainer.work/jobs/mercor/clinical-researchers-stem-phds) |
 | [Physics Expert](https://aitrainer.work/jobs/micro1/physics-expert-2) | $72.5/hr | Micro1 | Remote · PhD | [View →](https://aitrainer.work/jobs/micro1/physics-expert-2) |
+| [Energy System Experts](https://aitrainer.work/jobs/mercor/energy-system-experts) | $70/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/energy-system-experts) |
 | [Mandarin STEM Translation Reviewer](https://aitrainer.work/jobs/mercor/mandarin-stem-translation-reviewer) | $70/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/mandarin-stem-translation-reviewer) |
-| [Japanese STEM Translation Reviewer](https://aitrainer.work/jobs/mercor/japanese-stem-translation-reviewer) | $70/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/japanese-stem-translation-reviewer) |
-| [Korean STEM Translation Reviewer](https://aitrainer.work/jobs/mercor/korean-stem-translation-reviewer) | $70/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/korean-stem-translation-reviewer) |
 
-> 64 more roles available → **[Browse all STEM & Science jobs](https://aitrainer.work/jobs/stem)**
+> 67 more roles available → **[Browse all STEM & Science jobs](https://aitrainer.work/jobs/stem)**
 
 ## 🏥 Healthcare & Medical
 
@@ -149,6 +149,7 @@ All jobs include a referral link. Applying through the links here (via [aitraine
 | [Healthcare Expert (MD, DO, RN, NP, PA, MPH)](https://aitrainer.work/jobs/mercor/healthcare-expert-md-do-rn-np-pa-mph) | $170/hr | Mercor | Remote · Master's | [View →](https://aitrainer.work/jobs/mercor/healthcare-expert-md-do-rn-np-pa-mph) |
 | [Emergency Medicine Physician](https://aitrainer.work/jobs/mercor/emergency-medicine-physician) | $155/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/emergency-medicine-physician) |
 | [Bilingual Medical Expert](https://aitrainer.work/jobs/micro1/bilingual-medical-expert) | $154/hr | Micro1 | Remote | [View →](https://aitrainer.work/jobs/micro1/bilingual-medical-expert) |
+| [Medical Specialist](https://aitrainer.work/jobs/micro1/medical-specialist-1) | $150/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/medical-specialist-1) |
 | [Neurologists](https://aitrainer.work/jobs/mercor/neurologists) | $150/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/neurologists) |
 | [Ophthalmologists, Except Pediatric](https://aitrainer.work/jobs/mercor/ophthalmologists-except-pediatric) | $150/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/ophthalmologists-except-pediatric) |
 | [Emergency Medicine Physicians](https://aitrainer.work/jobs/mercor/emergency-medicine-physicians) | $150/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/emergency-medicine-physicians) |
@@ -161,9 +162,8 @@ All jobs include a referral link. Applying through the links here (via [aitraine
 | [Radiologist](https://aitrainer.work/jobs/mercor/radiologist) | $130/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/radiologist) |
 | [Medical Fellows (Must be in Fellowship)](https://aitrainer.work/jobs/mercor/medical-fellows-must-be-in-fellowship) | $130/hr | Mercor | Remote · PhD | [View →](https://aitrainer.work/jobs/mercor/medical-fellows-must-be-in-fellowship) |
 | [Neurologist](https://aitrainer.work/jobs/micro1/neurologist) | $125/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/neurologist) |
-| [B2B Buyers at U.S. Health Plans (Pharmacy Benefit Management) - Survey Insights](https://aitrainer.work/jobs/mercor/b2b-buyers-at-us-health-plans-pharmacy-benefit-management-survey-insights) | $121/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/b2b-buyers-at-us-health-plans-pharmacy-benefit-management-survey-insights) |
 
-> 66 more roles available → **[Browse all Healthcare & Medical jobs](https://aitrainer.work/jobs/healthcare)**
+> 71 more roles available → **[Browse all Healthcare & Medical jobs](https://aitrainer.work/jobs/healthcare)**
 
 ## 💰 Finance, Business & Legal
 
@@ -171,20 +171,22 @@ All jobs include a referral link. Applying through the links here (via [aitraine
 |-----------|-----|----------|-------------|--------|
 | [Accounting & Audit Expert](https://aitrainer.work/jobs/mercor/accounting-audit-expert) | $250.5/hr | Mercor | Remote · Bachelor's | [View →](https://aitrainer.work/jobs/mercor/accounting-audit-expert) |
 | [Lawyer Expert](https://aitrainer.work/jobs/ethos/lawyer-expert) | $225/hr | Ethos | Remote | [View →](https://aitrainer.work/jobs/ethos/lawyer-expert) |
-| [Accounting Expert (Super Star Program)](https://aitrainer.work/jobs/micro1/accounting-expert-super-star-program-1) | $200/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/accounting-expert-super-star-program-1) |
+| [Accounting Expert (Super Star Program)](https://aitrainer.work/jobs/micro1/accounting-expert-super-star-program-2) | $200/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/accounting-expert-super-star-program-2) |
 | [Hedge Fund Expert](https://aitrainer.work/jobs/mercor/hedge-fund-expert) | $200/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/hedge-fund-expert) |
-| [M&A Financial Strategy Expert](https://aitrainer.work/jobs/micro1/ma-financial-strategy-expert) | $190/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/ma-financial-strategy-expert) |
+| [Finance & Investment Professional](https://aitrainer.work/jobs/micro1/finance-investment-professional) | $182/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/finance-investment-professional) |
+| [Financial Investment Analyst](https://aitrainer.work/jobs/micro1/financial-investment-analyst) | $182/hr | Micro1 | Remote · Bachelor's | [View →](https://aitrainer.work/jobs/micro1/financial-investment-analyst) |
 | [Water Infrastructure & Municipal Finance Expert (U.S.)](https://aitrainer.work/jobs/mercor/water-infrastructure-municipal-finance-expert-us) | $180/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/water-infrastructure-municipal-finance-expert-us) |
 | [Senior Law Librarian / Research Attorney](https://aitrainer.work/jobs/mercor/senior-law-librarian-research-attorney) | $160/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/senior-law-librarian-research-attorney) |
-| [Private Equity Financial Modeling Expert](https://aitrainer.work/jobs/micro1/private-equity-financial-modeling-expert) | $157.5/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/private-equity-financial-modeling-expert) |
+| [Retail Investment Research Specialist (Individual Investor Focus)](https://aitrainer.work/jobs/mercor/retail-investment-research-specialist-individual-investor-focus) | $152.5/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/retail-investment-research-specialist-individual-investor-focus) |
 | [Growth Equity & Venture Financial Modeling Expert](https://aitrainer.work/jobs/micro1/growth-equity-venture-financial-modeling-expert) | $150/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/growth-equity-venture-financial-modeling-expert) |
-| [Investment Banking Modeling Analyst](https://aitrainer.work/jobs/micro1/investment-banking-modeling-analyst-1) | $150/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/investment-banking-modeling-analyst-1) |
-| [Investment Banking Modeling Analyst](https://aitrainer.work/jobs/micro1/investment-banking-modeling-analyst-2) | $150/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/investment-banking-modeling-analyst-2) |
-| [Private Equity Associate](https://aitrainer.work/jobs/micro1/private-equity-associate-2) | $150/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/private-equity-associate-2) |
+| [Senior Associate / Counsel Expert](https://aitrainer.work/jobs/ethos/senior-associate-counsel-expert) | $150/hr | Ethos | Remote | [View →](https://aitrainer.work/jobs/ethos/senior-associate-counsel-expert) |
 | [Private Equity Analyst Expert](https://aitrainer.work/jobs/ethos/private-equity-analyst-expert) | $150/hr | Ethos | Remote | [View →](https://aitrainer.work/jobs/ethos/private-equity-analyst-expert) |
 | [Sell-Side Equity Analyst Expert](https://aitrainer.work/jobs/ethos/sell-side-equity-analyst-expert) | $150/hr | Ethos | Remote | [View →](https://aitrainer.work/jobs/ethos/sell-side-equity-analyst-expert) |
 | [Senior FP&A Professional Expert](https://aitrainer.work/jobs/ethos/senior-fpa-professional-expert) | $150/hr | Ethos | Remote | [View →](https://aitrainer.work/jobs/ethos/senior-fpa-professional-expert) |
 | [US Tax Professional Expert](https://aitrainer.work/jobs/ethos/us-tax-professional-expert) | $150/hr | Ethos | Remote | [View →](https://aitrainer.work/jobs/ethos/us-tax-professional-expert) |
+| [Expert Opportunity - Senior Associate / Counsel ($150/hr, up to $3,000/week)](https://aitrainer.work/jobs/ethos/expert-opportunity-senior-associate-counsel-150hr-up-to-3000week) | $150/hr | Ethos | Remote | [View →](https://aitrainer.work/jobs/ethos/expert-opportunity-senior-associate-counsel-150hr-up-to-3000week) |
+| [Business Specialist - Microsoft Office](https://aitrainer.work/jobs/micro1/business-specialist-microsoft-office) | $143.5/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/business-specialist-microsoft-office) |
+| [Business Specialist - Google Workspace](https://aitrainer.work/jobs/micro1/business-specialist-google-workspace) | $143.5/hr | Micro1 | Remote | [View →](https://aitrainer.work/jobs/micro1/business-specialist-google-workspace) |
 | [Investment Banking Modeling Specialist](https://aitrainer.work/jobs/micro1/investment-banking-modeling-specialist) | $140/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/investment-banking-modeling-specialist) |
 | [Private Equity Expert](https://aitrainer.work/jobs/mercor/private-equity-expert) | $130/hr | Mercor | Remote · Master's | [View →](https://aitrainer.work/jobs/mercor/private-equity-expert) |
 | [Finance Experts (direct lending and alternative credit)](https://aitrainer.work/jobs/mercor/finance-experts-direct-lending-and-alternative-credit-2) | $130/hr | Mercor | Remote · Bachelor's | [View →](https://aitrainer.work/jobs/mercor/finance-experts-direct-lending-and-alternative-credit-2) |
@@ -192,10 +194,8 @@ All jobs include a referral link. Applying through the links here (via [aitraine
 | [Financial Risk Specialists](https://aitrainer.work/jobs/mercor/financial-risk-specialists) | $127.5/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/financial-risk-specialists) |
 | [Senior Investment Analyst (Buy-Side)](https://aitrainer.work/jobs/mercor/senior-investment-analyst-buy-side) | $125/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/senior-investment-analyst-buy-side) |
 | [Management Consultant (Strategy, Operations & Finance)](https://aitrainer.work/jobs/mercor/management-consultant-strategy-operations-finance) | $125/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/management-consultant-strategy-operations-finance) |
-| [Legal content reviewer (special needs law)](https://aitrainer.work/jobs/mercor/legal-content-reviewer-special-needs-law) | $125/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/legal-content-reviewer-special-needs-law) |
-| [Legal content author (special needs law)](https://aitrainer.work/jobs/mercor/legal-content-author-special-needs-law) | $125/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/legal-content-author-special-needs-law) |
 
-> 214 more roles available → **[Browse all Finance, Business & Legal jobs](https://aitrainer.work/jobs/finance)**
+> 267 more roles available → **[Browse all Finance, Business & Legal jobs](https://aitrainer.work/jobs/finance)**
 
 ## 🌍 Languages & Translation
 
@@ -221,13 +221,13 @@ All jobs include a referral link. Applying through the links here (via [aitraine
 | [Thai Language Expert](https://aitrainer.work/jobs/micro1/thai-language-expert) | $66/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/thai-language-expert) |
 | [Dutch Language Expert](https://aitrainer.work/jobs/micro1/dutch-language-expert-1) | $66/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/dutch-language-expert-1) |
 | [AI Red-Teamer — Adversarial AI Testing (Advanced); English & Hebrew](https://aitrainer.work/jobs/mercor/ai-red-teamer-adversarial-ai-testing-advanced-english-hebrew) | $65.5/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/ai-red-teamer-adversarial-ai-testing-advanced-english-hebrew) |
-| [Japanese Language Expert](https://aitrainer.work/jobs/micro1/japanese-language-expert) | $60/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/japanese-language-expert) |
 | [German & English Bilingual Expert (Hobbyist & Domain Experts)](https://aitrainer.work/jobs/mercor/german-english-bilingual-expert-hobbyist-domain-experts) | $60/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/german-english-bilingual-expert-hobbyist-domain-experts) |
 | [Generalist - English & Brazilian Portuguese](https://aitrainer.work/jobs/mercor/generalist-english-brazilian-portuguese) | $57/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/generalist-english-brazilian-portuguese) |
 | [Indonesian Language Expert](https://aitrainer.work/jobs/micro1/indonesian-language-expert) | $55/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/indonesian-language-expert) |
+| [Computer Science - Domain experts](https://aitrainer.work/jobs/turing/computer-science-domain-experts) | $50/hr | Turing | South Korea | [View →](https://aitrainer.work/jobs/turing/computer-science-domain-experts) |
 | [French Language Expert](https://aitrainer.work/jobs/micro1/french-language-expert-1) | $50/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/french-language-expert-1) |
 
-> 133 more roles available → **[Browse all Languages & Translation jobs](https://aitrainer.work/jobs/languages)**
+> 137 more roles available → **[Browse all Languages & Translation jobs](https://aitrainer.work/jobs/languages)**
 
 ## 🎨 Creative, Design & Writing
 
@@ -236,7 +236,6 @@ All jobs include a referral link. Applying through the links here (via [aitraine
 | [Film and Video Editors](https://aitrainer.work/jobs/mercor/film-and-video-editors) | $250.5/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/film-and-video-editors) |
 | [Audio and Video Technicians](https://aitrainer.work/jobs/mercor/audio-and-video-technicians) | $250.5/hr | Mercor | Remote · Bachelor's | [View →](https://aitrainer.work/jobs/mercor/audio-and-video-technicians) |
 | [Hebrew Professional Voice Actor](https://aitrainer.work/jobs/mercor/hebrew-professional-voice-actor) | $225/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/hebrew-professional-voice-actor) |
-| [Private Equity Modeling & Diligence Specialist](https://aitrainer.work/jobs/micro1/private-equity-modeling-diligence-specialist) | $190/hr | Micro1 | Remote | [View →](https://aitrainer.work/jobs/micro1/private-equity-modeling-diligence-specialist) |
 | [Product Designer (L3-L5)](https://aitrainer.work/jobs/mercor/product-designer-l3-l5) | $190/submission | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/product-designer-l3-l5) |
 | [Uiua Expert](https://aitrainer.work/jobs/mercor/uiua-expert) | $187.5/hr | Mercor | Remote · PhD | [View →](https://aitrainer.work/jobs/mercor/uiua-expert) |
 | [Senior Powerpoint Presentation Designer](https://aitrainer.work/jobs/micro1/senior-powerpoint-presentation-designer) | $150/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/senior-powerpoint-presentation-designer) |
@@ -245,6 +244,7 @@ All jobs include a referral link. Applying through the links here (via [aitraine
 | [Professional Design Experts](https://aitrainer.work/jobs/mercor/professional-design-experts) | $130/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/professional-design-experts) |
 | [Mergers & Acquisitions (M&A) Analyst – AI Model Training - The United States](https://aitrainer.work/jobs/sme-careers/mergers-acquisitions-ma-analyst-ai-model-training-the-united-states) | $125/hr | SME Careers | The United States · Bachelor's | [View →](https://aitrainer.work/jobs/sme-careers/mergers-acquisitions-ma-analyst-ai-model-training-the-united-states) |
 | [Mergers & Acquisitions (M&A) Analyst – AI Model Training](https://aitrainer.work/jobs/sme-careers/mergers-acquisitions-ma-analyst-ai-model-training) | $125/hr | SME Careers | Worldwide · Bachelor's | [View →](https://aitrainer.work/jobs/sme-careers/mergers-acquisitions-ma-analyst-ai-model-training) |
+| [Private Equity Associate](https://aitrainer.work/jobs/micro1/private-equity-associate-2) | $122/hr | Micro1 | Remote · Master's | [View →](https://aitrainer.work/jobs/micro1/private-equity-associate-2) |
 | [Brand / Creative Marketing Professionals](https://aitrainer.work/jobs/mercor/brand-creative-marketing-professionals) | $120/hr | Mercor | Remote · Bachelor's | [View →](https://aitrainer.work/jobs/mercor/brand-creative-marketing-professionals) |
 | [Equity Research Expert](https://aitrainer.work/jobs/mercor/equity-research-expert) | $120/hr | Mercor | Remote · Master's | [View →](https://aitrainer.work/jobs/mercor/equity-research-expert) |
 | [Korean Professional Voice Actor](https://aitrainer.work/jobs/mercor/korean-professional-voice-actor) | $120/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/korean-professional-voice-actor) |
@@ -253,13 +253,13 @@ All jobs include a referral link. Applying through the links here (via [aitraine
 | [Product & UX Design Expert](https://aitrainer.work/jobs/mercor/product-ux-design-expert) | $100/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/product-ux-design-expert) |
 | [Web and Digital Interface Designers](https://aitrainer.work/jobs/mercor/web-and-digital-interface-designers) | $100/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/web-and-digital-interface-designers) |
 | [Cybersecurity Expert (OSCP Required)](https://aitrainer.work/jobs/mercor/cybersecurity-expert-oscp-required) | $100/hr | Mercor | Remote · Bachelor's | [View →](https://aitrainer.work/jobs/mercor/cybersecurity-expert-oscp-required) |
+| [Senior Content Editor Expert](https://aitrainer.work/jobs/ethos/senior-content-editor-expert) | $100/hr | Ethos | Remote | [View →](https://aitrainer.work/jobs/ethos/senior-content-editor-expert) |
+| [Senior Producer / Director Expert](https://aitrainer.work/jobs/ethos/senior-producer-director-expert) | $100/hr | Ethos | Remote | [View →](https://aitrainer.work/jobs/ethos/senior-producer-director-expert) |
 | [Visual Design Expert (Excel)](https://aitrainer.work/jobs/mercor/visual-design-expert-excel) | $92.5/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/visual-design-expert-excel) |
 | [Visual Design Expert in Excel](https://aitrainer.work/jobs/mercor/visual-design-expert-in-excel) | $92.5/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/visual-design-expert-in-excel) |
 | [Commercial and Industrial Designers](https://aitrainer.work/jobs/mercor/commercial-and-industrial-designers) | $92.5/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/commercial-and-industrial-designers) |
-| [UI/UX SWE Experts](https://aitrainer.work/jobs/mercor/uiux-swe-experts) | $90/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/uiux-swe-experts) |
-| [Hindi Professional Voice Actor](https://aitrainer.work/jobs/mercor/hindi-professional-voice-actor) | $90/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/hindi-professional-voice-actor) |
 
-> 145 more roles available → **[Browse all Creative, Design & Writing jobs](https://aitrainer.work/jobs/creative)**
+> 155 more roles available → **[Browse all Creative, Design & Writing jobs](https://aitrainer.work/jobs/creative)**
 
 ## ⭐ Generalist & Entry-Level
 
@@ -291,7 +291,7 @@ All jobs include a referral link. Applying through the links here (via [aitraine
 | [Career/Technical Education Teachers, Postsecondary](https://aitrainer.work/jobs/mercor/careertechnical-education-teachers-postsecondary-1) | $82.5/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/careertechnical-education-teachers-postsecondary-1) |
 | [Cartographers and Photogrammetrists](https://aitrainer.work/jobs/mercor/cartographers-and-photogrammetrists) | $82.5/hr | Mercor | Remote | [View →](https://aitrainer.work/jobs/mercor/cartographers-and-photogrammetrists) |
 
-> 95 more roles available → **[Browse all Generalist & Entry-Level jobs](https://aitrainer.work/jobs/generalist)**
+> 104 more roles available → **[Browse all Generalist & Entry-Level jobs](https://aitrainer.work/jobs/generalist)**
 
 ---
 
@@ -305,8 +305,8 @@ All jobs include a referral link. Applying through the links here (via [aitraine
 | [Software Expert (Operating System)](https://aitrainer.work/jobs/mercor/software-expert-operating-system-6) | $400/hr | Mercor | [View →](https://aitrainer.work/jobs/mercor/software-expert-operating-system-6) |
 | [Software Expert (Office Suite)](https://aitrainer.work/jobs/mercor/software-expert-office-suite-7) | $400/hr | Mercor | [View →](https://aitrainer.work/jobs/mercor/software-expert-office-suite-7) |
 | [Excel/PowerPoint/Document Style Experts](https://aitrainer.work/jobs/mercor/excelpowerpointdocument-style-experts) | $300/hr | Mercor | [View →](https://aitrainer.work/jobs/mercor/excelpowerpointdocument-style-experts) |
-| [Radiology Expert](https://aitrainer.work/jobs/mercor/radiology-expert) | $290/hr | Mercor | [View →](https://aitrainer.work/jobs/mercor/radiology-expert) |
 | [Hematology / Oncology Expert](https://aitrainer.work/jobs/mercor/hematology-oncology-expert) | $290/hr | Mercor | [View →](https://aitrainer.work/jobs/mercor/hematology-oncology-expert) |
+| [Radiology Expert](https://aitrainer.work/jobs/mercor/radiology-expert) | $290/hr | Mercor | [View →](https://aitrainer.work/jobs/mercor/radiology-expert) |
 | [Cardiologist](https://aitrainer.work/jobs/mercor/cardiologist-1) | $275/hr | Mercor | [View →](https://aitrainer.work/jobs/mercor/cardiologist-1) |
 | [Real Estate Sales Agents](https://aitrainer.work/jobs/mercor/real-estate-sales-agents) | $250.5/hr | Mercor | [View →](https://aitrainer.work/jobs/mercor/real-estate-sales-agents) |
 | [Accounting & Audit Expert](https://aitrainer.work/jobs/mercor/accounting-audit-expert) | $250.5/hr | Mercor | [View →](https://aitrainer.work/jobs/mercor/accounting-audit-expert) |
@@ -319,16 +319,16 @@ All jobs include a referral link. Applying through the links here (via [aitraine
 | [Internal Medicine Expert](https://aitrainer.work/jobs/mercor/internal-medicine-expert) | $215/hr | Mercor | [View →](https://aitrainer.work/jobs/mercor/internal-medicine-expert) |
 | [Engineering Expert - Specialized Subdomains (Super Star Program)](https://aitrainer.work/jobs/micro1/engineering-expert-specialized-subdomains-super-star-program) | $200/hr | Micro1 | [View →](https://aitrainer.work/jobs/micro1/engineering-expert-specialized-subdomains-super-star-program) |
 | [Electrical Engineering Expert (Super Star Program)](https://aitrainer.work/jobs/micro1/electrical-engineering-expert-super-star-program) | $200/hr | Micro1 | [View →](https://aitrainer.work/jobs/micro1/electrical-engineering-expert-super-star-program) |
-| [Accounting Expert (Super Star Program)](https://aitrainer.work/jobs/micro1/accounting-expert-super-star-program-1) | $200/hr | Micro1 | [View →](https://aitrainer.work/jobs/micro1/accounting-expert-super-star-program-1) |
+| [Accounting Expert (Super Star Program)](https://aitrainer.work/jobs/micro1/accounting-expert-super-star-program-2) | $200/hr | Micro1 | [View →](https://aitrainer.work/jobs/micro1/accounting-expert-super-star-program-2) |
 | [Software Engineering Expert (Super Star Program)](https://aitrainer.work/jobs/micro1/software-engineering-expert-super-star-program) | $200/hr | Micro1 | [View →](https://aitrainer.work/jobs/micro1/software-engineering-expert-super-star-program) |
-| [Physicians, Pathologists (Health Care and Social Assistance)](https://aitrainer.work/jobs/mercor/physicians-pathologists-health-care-and-social-assistance) | $200/hr | Mercor | [View →](https://aitrainer.work/jobs/mercor/physicians-pathologists-health-care-and-social-assistance) |
 | [Hedge Fund Expert](https://aitrainer.work/jobs/mercor/hedge-fund-expert) | $200/hr | Mercor | [View →](https://aitrainer.work/jobs/mercor/hedge-fund-expert) |
+| [Physicians, Pathologists (Health Care and Social Assistance)](https://aitrainer.work/jobs/mercor/physicians-pathologists-health-care-and-social-assistance) | $200/hr | Mercor | [View →](https://aitrainer.work/jobs/mercor/physicians-pathologists-health-care-and-social-assistance) |
 | [Medical & Diagnostic reviewer](https://aitrainer.work/jobs/mercor/medical-diagnostic-reviewer) | $200/hr | Mercor | [View →](https://aitrainer.work/jobs/mercor/medical-diagnostic-reviewer) |
-| [M&A Financial Strategy Expert](https://aitrainer.work/jobs/micro1/ma-financial-strategy-expert) | $190/hr | Micro1 | [View →](https://aitrainer.work/jobs/micro1/ma-financial-strategy-expert) |
-| [Private Equity Modeling & Diligence Specialist](https://aitrainer.work/jobs/micro1/private-equity-modeling-diligence-specialist) | $190/hr | Micro1 | [View →](https://aitrainer.work/jobs/micro1/private-equity-modeling-diligence-specialist) |
 | [Product Designer (L3-L5)](https://aitrainer.work/jobs/mercor/product-designer-l3-l5) | $190/submission | Mercor | [View →](https://aitrainer.work/jobs/mercor/product-designer-l3-l5) |
 | [Uiua Expert](https://aitrainer.work/jobs/mercor/uiua-expert) | $187.5/hr | Mercor | [View →](https://aitrainer.work/jobs/mercor/uiua-expert) |
 | [Highly Experienced Structural Biologists](https://aitrainer.work/jobs/mercor/highly-experienced-structural-biologists) | $185/hr | Mercor | [View →](https://aitrainer.work/jobs/mercor/highly-experienced-structural-biologists) |
+| [Marriage and Family Therapist](https://aitrainer.work/jobs/micro1/marriage-and-family-therapist-1) | $184.5/hr | Micro1 | [View →](https://aitrainer.work/jobs/micro1/marriage-and-family-therapist-1) |
+| [Occupational Therapy Assistants](https://aitrainer.work/jobs/micro1/occupational-therapy-assistants) | $184.5/hr | Micro1 | [View →](https://aitrainer.work/jobs/micro1/occupational-therapy-assistants) |
 
 ---
 
@@ -348,7 +348,7 @@ This repo is maintained by **[aitrainer.work](https://aitrainer.work)** — the 
 
 ### Useful links
 
-- [Full job board](https://aitrainer.work) — all 1831+ active jobs with filters
+- [Full job board](https://aitrainer.work) — all 1988+ active jobs with filters
 - [Platform comparison](https://aitrainer.work/platforms) — pay rates, requirements, reviews
 - [Guides](https://aitrainer.work/guides) — how to get started, profile tips, interview prep
 - [Academy](https://aitrainer.work/academy) — free RLHF training course
@@ -359,4 +359,4 @@ This list is auto-generated weekly. To report a broken link or suggest a platfor
 
 ---
 
-*Last updated: 2026-05-11 · 1831 active jobs · Auto-generated by [aitrainer.work](https://aitrainer.work)*
+*Last updated: 2026-05-18 · 1988 active jobs · Auto-generated by [aitrainer.work](https://aitrainer.work)*
